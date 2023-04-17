@@ -1,6 +1,6 @@
 # Applied Programming
 
-This is a gathering of all content for Applied programming class. In this 6 projects will be demonstrated and one [intro project](). 
+This is a gathering of all content for Applied programming class. In this 6 projects will be demonstrated and one [intro project](https://github.com/atk21009/AppliedProgramming/tree/main/Intro). 
 
 ## Projects
 1. 
